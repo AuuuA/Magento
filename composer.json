@@ -13,7 +13,7 @@
     "version": "2.4.2",
     "require": {
         "magento/composer-root-update-plugin": "~1.1",
-        "magento/product-community-edition": "2.4.2-p1"
+        "magento/product-community-edition": "2.4.2-p1",
         "php": "~7.3.0||~7.4.0",
         "ext-bcmath": "*",
         "ext-ctype": "*",
